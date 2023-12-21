@@ -9,7 +9,7 @@ def parse_input(input):
 
 
 def read_input():
-    with open("input.txt", "r") as f:
+    with open("in.txt", "r") as f:
         return f.readlines()
 
 
